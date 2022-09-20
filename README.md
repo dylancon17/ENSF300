@@ -1,5 +1,6 @@
 # ENSF300
 
-This is a ::highlighted:: word
+#Testing collaborative git
 
-# Testing collaborative git
+**boo**
+This is a ::highlighted:: word
