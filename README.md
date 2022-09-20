@@ -1,3 +1,5 @@
 # ENSF300
 
-#Testing collaborative git
+This is a ::highlighted:: word
+
+# Testing collaborative git
