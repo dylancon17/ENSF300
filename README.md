@@ -3,3 +3,4 @@
 #Testing collaborative git
 
 **boo**
+This is a ::highlighted:: word
